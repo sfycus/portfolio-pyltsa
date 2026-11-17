@@ -1,5 +1,7 @@
 # Пыльца
 
+[Открыть сайт](https://sfycus.github.io/portfolio-sites/sites/pollen/) · [Каталог проектов](https://sfycus.github.io/portfolio-sites/)
+
 Цветочная мастерская · самостоятельный сайт для портфолио.
 
 <img src="assets/florist.jpg" alt="Фотография для проекта Пыльца" width="760">
